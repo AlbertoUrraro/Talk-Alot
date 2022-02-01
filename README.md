@@ -15,7 +15,7 @@ This project is a Full Stack Chatting App. Uses Socket.io for real time communic
 Clone the project
 
 ```bash
-  git clone **
+  git clone https://github.com/AlbertoUrraro/Talk-Alot.git
 ```
 
 Go to the project directory
