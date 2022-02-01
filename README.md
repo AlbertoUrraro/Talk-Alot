@@ -10,6 +10,10 @@ This project is a Full Stack Chatting App. Uses Socket.io for real time communic
 
 **Database:** Mongo DB
 
+## Demo
+
+https://talk-alot.herokuapp.com/
+
 ## Run Locally
 
 Clone the project
@@ -48,5 +52,58 @@ Start the Client
   cd frontend
   npm start
 ```
+
+# Features
+
+### Authenticaton
+
+![](https://github.com/AlbertoUrraro/Talk-Alot/blob/main/Screenshot/Login.png)
+![](https://github.com/AlbertoUrraro/Talk-Alot/blob/main/Screenshot/registrazione.png)
+
+### Forgot Password
+
+![](https://github.com/AlbertoUrraro/Talk-Alot/blob/main/Screenshot/PasswordDimenticata.png)
+
+### Email Forgot Password
+
+![](https://github.com/AlbertoUrraro/Talk-Alot/blob/main/Screenshot/Email.png)
+
+### Reset Password
+
+![](https://github.com/AlbertoUrraro/Talk-Alot/blob/main/Screenshot/ResetPassword.png)
+
+### Private Area
+
+![](https://github.com/AlbertoUrraro/Talk-Alot/blob/main/Screenshot/AreaPrivata.png)
+
+### Real Time Chatting with Typing indicators
+
+![]()
+
+### One to One chat
+
+![](https://github.com/AlbertoUrraro/Talk-Alot/blob/main/Screenshot/Chat.png)
+
+### Search Users
+
+![]()
+
+### Create Group Chats
+
+![]()
+
+### Notifications
+
+![](https://github.com/AlbertoUrraro/Talk-Alot/blob/main/Screenshot/Notifica.png)
+
+### Add or Remove users from group
+
+![]()
+
+### View Other user Profile
+
+![]()
+
+## Made By
 
 - [@Alberto-Urraro]
