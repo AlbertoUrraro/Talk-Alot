@@ -1,0 +1,12 @@
+Account:
+email:oncoMad@hotmail.com
+password:oncoMad125
+
+email:masterRad@gmail.com
+password:Masterrad1
+
+email:angelHeart@live.it
+password:angelHeart2
+ 
+email:bodyMaster@outlook.com
+password:bodyMaster456
