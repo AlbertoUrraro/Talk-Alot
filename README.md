@@ -76,9 +76,9 @@ Start the Client
 
 ![](https://github.com/AlbertoUrraro/Talk-Alot/blob/main/Screenshot/AreaPrivata.png)
 
-### Real Time Chatting with Typing indicators
+### Real Time Chatting
 
-![]()
+![](https://github.com/AlbertoUrraro/Talk-Alot/blob/main/Screenshot/realTimechat.png)
 
 ### One to One chat
 
@@ -86,11 +86,11 @@ Start the Client
 
 ### Search Users
 
-![]()
+![](https://github.com/AlbertoUrraro/Talk-Alot/blob/main/Screenshot/CercaUtente.png)
 
 ### Create Group Chats
 
-![]()
+![](https://github.com/AlbertoUrraro/Talk-Alot/blob/main/Screenshot/ChatGruppo.png)
 
 ### Notifications
 
@@ -98,11 +98,11 @@ Start the Client
 
 ### Add or Remove users from group
 
-![]()
+![](https://github.com/AlbertoUrraro/Talk-Alot/blob/main/Screenshot/add-remove-gruoup.png)
 
 ### View Other user Profile
 
-![]()
+![](https://github.com/AlbertoUrraro/Talk-Alot/blob/main/Screenshot/ProfiloUtenti.png)
 
 ## Made By
 
